@@ -10,8 +10,13 @@ Email Me 👉 ✉️ **piyushsaxena7723@gmail.com** For Collaboration/Project or
 - 📫 **How to reach me:** piyushsaxena7723@gmail.com
 - 😄 **Pronouns:** Piyush Saxena
 - ⚡ **Fun fact:** I Love Tech and Tech Loves Me
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/piyushsaxena0964) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-saxena-eng/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyushsaxena7723@gmail.com) 
+## 🌐 **Connect With Me**
+<p align="left"> 
+<a href="https://linkedin.com/in/piyush-saxena-eng/"><img alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://github.com/Piyushsaxena123"><img alt="GitHub" width="40px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com//u/Piyush_231/"><img alt="LeetCode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"></a>      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="piyushsaxena7723@gmail.com"><img alt="Gmail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 # 💻 Tech Stack:
 ### 📋 Frontend Development
@@ -187,15 +192,9 @@ Email Me 👉 ✉️ **piyushsaxena7723@gmail.com** For Collaboration/Project or
 ![](https://github-readme-stats.vercel.app/api?username=Piyushsaxena123&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Piyushsaxena123&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushsaxena123&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-## 🌐 **Connect With Me**
-<p align="left"> 
-<a href="https://linkedin.com/in/piyush-saxena-eng/"><img alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://github.com/Piyushsaxena123"><img alt="GitHub" width="40px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com//u/Piyush_231/"><img alt="LeetCode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"></a>      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="piyushsaxena7723@gmail.com"><img alt="Gmail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Piyushsaxena123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Piyushsaxena123&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
