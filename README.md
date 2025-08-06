@@ -1,6 +1,5 @@
 # 💫 Hi 👋, I'm Piyush Saxena
 **A passionate Engineer || Web Development
-Email Me 👉 ✉️ **piyushsaxena7723@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** Enter your tech here
