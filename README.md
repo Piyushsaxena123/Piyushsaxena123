@@ -199,8 +199,11 @@
   <a href="https://codeforces.com/profile/piyushsaxena" target="_blank"> <img alt="Codeforces" width="125" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.naukri.com/code360/profile/b7722291-5d2e-401a-998d-386637dcc52c" target="_blank"> <img alt="CodingNinjas" width="125" src="https://img.shields.io/badge/CodingNinjas-%232C3454.svg?logo=CodingNinjas&logoColor=orange"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Piyushsaxena123&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 <p align="center">
   <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=Piyushsaxena123&show_icons=true&locale=en&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Piyush" />
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyushsaxena123&theme=blueberry&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="370"/>
@@ -210,9 +213,6 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyushsaxena123&theme=tokyonight&hide_border=true" align="left" width="450" alt="Piyush Saxena"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Piyushsaxena123&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="center" width="300"  alt="Piyush Saxena"/>
 </p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Piyushsaxena123&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 ### 🔝 Top Contributed Repo
