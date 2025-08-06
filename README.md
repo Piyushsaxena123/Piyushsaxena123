@@ -187,7 +187,13 @@ Email Me 👉 ✉️ **piyushsaxena7723@gmail.com** For Collaboration/Project or
 ![](https://github-readme-stats.vercel.app/api?username=Piyushsaxena123&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Piyushsaxena123&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushsaxena123&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+## 🌐 **Connect With Me**
+<p align="left"> 
+<a href="https://linkedin.com/in/piyush-saxena-eng/"><img alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://github.com/Piyushsaxena123"><img alt="GitHub" width="40px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com//u/Piyush_231/"><img alt="LeetCode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"></a>      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:piyushsaxena7723@gmail.com"><img alt="Gmail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Piyushsaxena123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
