@@ -1,14 +1,14 @@
 # 💫 Hi 👋, I'm Piyush Saxena
 **A passionate Engineer || Web Development
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
+- 🔭 **I’m currently working on:** Pic Perfect – a web app that helps photographers manage and edit their photos with features like crop, resize, filter, save, and delete — all in one place.
+- 🌱 **I’m currently learning:** Full-stack development, image processing, and backend integration with Node.js & Express.js.
+- 👯 **I’m looking to collaborate on: Creative and impactful web development projects, especially tools that solve real-world problems.
+- 🤔 **I’m looking for help with:** Optimizing image handling performance and expanding features in Pic Perfect.
+- 💬 **Ask me about:** Web development, project collaboration, or anything tech-related!
 - 📫 **How to reach me:** piyushsaxena7723@gmail.com
-- 😄 **Pronouns:** Piyush Saxena
-- ⚡ **Fun fact:** I Love Tech and Tech Loves Me
+- 😄 **Pronouns:** He/Him (Piyush Saxena)
+- ⚡ **Fun fact:** I love tech—and tech loves me back when it compiles without errors 😄
 ## 🌐 **Connect With Me**
 <p align="left"> 
 <a href="https://linkedin.com/in/piyush-saxena-eng/"><img alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -189,7 +189,7 @@
 <a href="https://flutter.dev" target="_blank"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"></a>
 
 ----------------------
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Data Structure and Algorithm</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Data Structure and Algorithm (DSA)</b>
 <br>
 
 <p align="left"> 
@@ -199,6 +199,7 @@
   <a href="https://codeforces.com/profile/piyushsaxena" target="_blank"> <img alt="Codeforces" width="125" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.naukri.com/code360/profile/b7722291-5d2e-401a-998d-386637dcc52c" target="_blank"> <img alt="CodingNinjas" width="125" src="https://img.shields.io/badge/CodingNinjas-%232C3454.svg?logo=CodingNinjas&logoColor=orange"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+----------------------
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Piyushsaxena123&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -213,7 +214,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyushsaxena123&theme=tokyonight&hide_border=true" align="left" width="450" alt="Piyush Saxena"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Piyushsaxena123&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="center" width="300"  alt="Piyush Saxena"/>
 </p>
-
+----------------------
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Piyushsaxena123&limit=5&theme=dark&combine_all_yearly_contributions=true)
