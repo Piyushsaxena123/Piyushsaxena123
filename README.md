@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Piyush Saxena
-**A passionate Engineer || Web Development.
+**A passionate Engineer || Web Development.**
 
 - 🔭 **I’m currently working on:** Pic Perfect – a web app that helps photographers manage and edit their photos with features like crop, resize, filter, save, and delete — all in one place.
 - 🌱 **I’m currently learning:** Full-stack development, image processing, and backend integration with Node.js & Express.js.
