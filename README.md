@@ -1,5 +1,7 @@
 # 💫 Hi 👋, I'm Piyush Saxena
 **A passionate Engineer || Web Development.**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Rishi;Software+Developer;Frontend+Developer;Team+Leader"></p>
 
 - 🔭 **I’m currently working on:** Pic Perfect – a web app that helps photographers manage and edit their photos with features like crop, resize, filter, save, and delete — all in one place.
 - 🌱 **I’m currently learning:** Full-stack development, image processing, and backend integration with Node.js & Express.js.
