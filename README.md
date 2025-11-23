@@ -1,8 +1,9 @@
 # 💫 Hi 👋, I'm Piyush Saxena
 **A passionate Engineer || Full Stack Web Developer.**
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%230076D6&size=25&center=true&vCenter=true&width=500&height=80&lines=I'm+Piyush+Saxena;Software+Developer;Frontend+Developer;Backend+Developer;Full+Stack+Developer">
+<img src="https://readme-typing-svg.herokuapp.com?color=%239DCEFF&size=25&center=true&vCenter=true&width=500&height=80&fontStyle=underline&lines=I'm+Piyush+Saxena;Software+Developer;Frontend+Developer;Backend+Developer;Full+Stack+Developer">
 </p>
+
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Piyushsaxena123&label=Profile%20views&color=0e75b6&style=flat" alt="Piyush-saxena" width="150"/> </p> -->
