@@ -195,6 +195,52 @@
 <a href="https://flutter.dev" target="_blank"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"></a>
 
 ----------------------
+# 🏗️ Projects
+
+
+## 🔹 AI Mock Interview — AI Job Interview Simulator
+**Tech Stack:** React, TypeScript, Tailwind, Gemini API  
+🎙️ AI generates interview questions, analyzes answers, gives scoring & suggestions  
+🧠 Supports Web Dev, DSA, HR, DBMS, System Design  
+🔗 Repo: https://github.com/Piyushsaxena123/ai-mock-interview  
+
+---
+## 🔹 PicPerfect — Photo Editing & Management Tool
+**Tech Stack:** HTML, CSS, JavaScript, React, Node.js  
+📸 Platform for cropping, resizing, filtering, deleting & organizing photos.  
+🔗 Live: https://picperfect1-ivory.vercel.app/  
+🔗 Repo: https://github.com/Piyushsaxena123/PicPerfect  
+
+---
+
+## 🔹 Modern Portfolio Website (MyPortfolio)
+**Tech Stack:** React, TailwindCSS, Vite  
+🖥️ Dark/light mode, animations, project grid, responsive design & clean UI/UX.  
+🔗 Live: https://piyushsaxena-portfolio-23.vercel.app/  
+🔗 Repo: https://github.com/Piyushsaxena123/MyPortfolio  
+
+---
+## 🔹 GenUI — AI Component Generator
+**Tech Stack:** React, Vite, Tailwind, Gemini API, Monaco Editor  
+🤖 Generates complete HTML/Tailwind/JS/Bootstrap components using AI with live preview  
+🔗 Repo: https://github.com/Piyushsaxena123/AI-Component-Generator  
+
+---
+## 🔹 3D Developer Portfolio (React + Three.js)
+**Tech Stack:** React, Three.js, React Three Fiber, Tailwind, Vite  
+🌍 A high-quality interactive 3D portfolio with animations, floating island & advanced 3D models.  
+🔗 Live: https://piyush-3-d-portfolio.vercel.app/  
+🔗 Repo: https://github.com/Piyushsaxena123/3D_Portfolio  
+
+---
+
+## 🔹 HooBank — Modern Digital Banking UI
+**Tech Stack:** React, TailwindCSS, Vite  
+🏦 Fintech UI with gradients, modern cards, testimonials & smooth animations  
+🔗 Repo: https://github.com/Piyushsaxena123/Bank_Modern_App  
+
+---
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Data Structure and Algorithm (DSA)</b>
 <br>
 
