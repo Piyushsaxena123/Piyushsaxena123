@@ -209,46 +209,25 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Piyushsaxena123&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🔥 Github Stats
-
-### 📊 Overall Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 <p align="center">
-  <img width="500" src="https://github-readme-stats.vercel.app/api?username=Piyushsaxena123&show_icons=true&locale=en&theme=tokyonight" />
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=Piyushsaxena123&show_icons=true&locale=en&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Piyush" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyushsaxena123&theme=blueberry&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="370"/>
 </p>
-
-### 🔥 Streak Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center">
-  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyushsaxena123&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyushsaxena123&theme=tokyonight&hide_border=true" align="left" width="450" alt="Piyush Saxena"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Piyushsaxena123&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="center" width="300"  alt="Piyush Saxena"/>
 </p>
+----------------------
 
-### 🧩 Profile Summary
-<p align="center">
-  <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyushsaxena123&theme=tokyonight" />
-</p>
-
-### 🔤 Top Languages
-<p align="center">
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushsaxena123&layout=compact&theme=tokyonight" />
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Piyushsaxena123&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Piyushsaxena123&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🔝 Top Contributed Repos
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Piyushsaxena123&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 👀 Profile Views  
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Piyushsaxena123&icon=0&color=0" />
-</p>
-
----
-
-## ✍️ Random Dev Quote  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->check the code and give right code for readme
