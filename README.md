@@ -257,15 +257,19 @@
 ![](https://github-profile-trophy.vercel.app/?username=Piyushsaxena123&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
-<img 
-  src="https://streak-stats.demolab.com?user=Piyushsaxena123&background=121321&border=121321&ring=83A8FF&fire=C993FF&currStreakNum=C993FF&sideNums=6BA3FF&currStreakLabel=C993FF&sideLabels=6BA3FF&dates=27D3C0&stroke=D0D0D0" 
-/>
+<p align="center"> 
+  <img align="left" width="400" 
+       src="https://github-readme-stats.vercel.app/api?username=Piyushsaxena123&show_icons=true&locale=en&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" 
+       alt="Piyush Saxena GitHub Stats" />
+</p>
 
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyushsaxena123&theme=tokyonight&hide_border=true" align="left" width="500" alt="Piyush Saxena"/>
 
 </p>
 <br><br><br><br><br><br><br>
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Piyushsaxena123&show_icons=true&locale=en&layout=compact&theme=tokyonight" 
+         align="center" width="300" alt="Piyush Saxena Top Languages"/></p>
 ----------------------
 
 ### 🔝 Top Contributed Repo
