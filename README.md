@@ -262,7 +262,7 @@
        src="https://github-readme-stats.vercel.app/api?username=Piyushsaxena123&show_icons=true&locale=en&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" 
        alt="Piyush Saxena GitHub Stats" />
 </p>
-
+### 🔝 Top Contributed Repo<br><br>
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyushsaxena123&theme=tokyonight&hide_border=true" align="left" width="500" alt="Piyush Saxena"/>
 
@@ -273,7 +273,7 @@
          align="center" width="300" alt="Piyush Saxena Top Languages"/></p>
 ----------------------
 
-### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=Piyushsaxena123&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
