@@ -263,7 +263,7 @@
        alt="Piyush Saxena GitHub Stats" />
 </p><br><br><br><br><br><br><br>
 ----------------------
-<br><br><br><br><br><br>
+<br>
 ### 🔝 Top Contributed Repo<br><br><br><br>
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyushsaxena123&theme=tokyonight&hide_border=true" align="left" width="500" alt="Piyush Saxena"/>
