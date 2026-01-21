@@ -251,7 +251,6 @@
   <a href="https://codeforces.com/profile/piyushsaxena" target="_blank"> <img alt="Codeforces" width="125" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.naukri.com/code360/profile/b7722291-5d2e-401a-998d-386637dcc52c" target="_blank"> <img alt="CodingNinjas" width="125" src="https://img.shields.io/badge/CodingNinjas-%232C3454.svg?logo=CodingNinjas&logoColor=orange"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-----------------------
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Piyushsaxena123&theme=radical&no-frame=false&no-bg=false&margin-w=4)
