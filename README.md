@@ -6,14 +6,20 @@
 </p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Piyushsaxena123&label=Profile%20views&color=0e75b6&style=flat" alt="Piyush-saxena" width="150"/> </p> -->
-- 🔭 **I’m currently working on:** Pic Perfect – a web app that helps photographers manage and edit their photos with features like crop, resize, filter, save, and delete — all in one place.
-- 🌱 **I’m currently learning:** Full-stack development, image processing, and backend integration with Node.js & Express.js.
-- 👯 **I’m looking to collaborate on: Creative and impactful web development projects, especially tools that solve real-world problems.
-- 🤔 **I’m looking for help with:** Optimizing image handling performance and expanding features in Pic Perfect.
-- 💬 **Ask me about:** Web development, project collaboration, or anything tech-related!
-- 📫 **How to reach me:** piyushsaxena7723@gmail.com
-- 😄 **Pronouns:** He/Him (Piyush Saxena)
-- ⚡ **Fun fact:** I love tech—and tech loves me back when it compiles without errors 😄
+## 🚀 About Me
+
+<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+A **Full-Stack Developer (MERN)** and B.Tech IT student passionate about building real-world, scalable applications.
+
+- 🔭 Building **AI & full-stack projects** like PrepWise and Pic Perfect  
+- 🌱 Exploring **Backend, Cloud (AWS), and AI integrations**  
+- 💻 Skilled in **MERN, Firebase, Supabase, AWS, SQL**  
+- 🤝 Open to **collaborations & opportunities**  
+- 📫 piyushsaxena7723@gmail.com  
+
+## ✨ *Code. Build. Deploy. Repeat.*
+
 ## 🌐 **Connect With Me**
 <p align="left"> 
 <a href="https://linkedin.com/in/piyush-saxena-eng/"><img alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
