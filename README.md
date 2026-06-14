@@ -278,7 +278,7 @@ A **Full-Stack Developer (MERN)** and B.Tech IT student passionate about buildin
 <br><br><br><br><br><br><br><br>
 ----------------------
 <br><br>
-🏆 Top 10 GitHub Languages (2025–2026)
+<h2>🏆 Top 10 GitHub Languages (2025–2026)</h2>
 <br><br><br>
 <p> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Piyushsaxena123&show_icons=true&locale=en&layout=compact&theme=tokyonight" 
          align="center" width="300" alt="Piyush Saxena Top Languages"/></p>
