@@ -260,7 +260,7 @@ A **Full-Stack Developer (MERN)** and B.Tech IT student passionate about buildin
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Piyushsaxena123&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![](https://github-profile-trophy.vercel.app/?username=Piyushsaxena123&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 <p align="center"> 
